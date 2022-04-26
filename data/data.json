@@ -1,0 +1,40 @@
+{
+  "collection": [
+    {
+      "collectiontype": "landing",
+      "collectionid": "0",
+      "articles": [
+        {
+          "titles": "Live: Gerg inglis to announce nrl retirement.",
+          "Imageurl": "https://i.picsum.photos/id/1024/200/200.jpg?hmac=LR-PJPi70YREc_0NdDp68FkLt6-f1sKeJWwgOhCeyBU",
+          "Intro": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+          "Published": "2m",
+          "Comment": "1"
+        },
+        {
+          "titles": "Greg Inglis to announce nrl retirement.",
+          "Imageurl": "https://i.picsum.photos/id/1024/200/200.jpg?hmac=LR-PJPi70YREc_0NdDp68FkLt6-f1sKeJWwgOhCeyBU",
+          "Intro": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+          "Published": "1h",
+          "Comment": "4"
+        }
+      ],
+      "post": [
+        {
+          "titles": "Live: Gerg inglis to announce nrl retirement.",
+          "Imageurl": "https://i.picsum.photos/id/1024/200/200.jpg?hmac=LR-PJPi70YREc_0NdDp68FkLt6-f1sKeJWwgOhCeyBU",
+
+          "Published": "2m",
+          "Comment": "1"
+        },
+        {
+          "titles": "Greg Inglis to announce nrl retirement.",
+          "Imageurl": "https://i.picsum.photos/id/1024/200/200.jpg?hmac=LR-PJPi70YREc_0NdDp68FkLt6-f1sKeJWwgOhCeyBU",
+
+          "Published": "1h",
+          "Comment": "1"
+        }
+      ]
+    }
+  ]
+}
